@@ -1,1 +1,1 @@
-$('div').width(screen.width*1);
+$('div').width(screen.width*0.8);
