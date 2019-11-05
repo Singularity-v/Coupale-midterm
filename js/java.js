@@ -1,0 +1,1 @@
+$('div').width(screen.width*1);
